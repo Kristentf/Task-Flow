@@ -5,6 +5,7 @@
 ![React Native](https://img.shields.io/badge/React%20Native-0.81-blue?logo=react)
 ![Expo](https://img.shields.io/badge/Expo-54-black?logo=expo)
 ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow?logo=javascript)
+
 Um aplicativo simples e minimalista de lista de tarefas desenvolvido com **React Native** e **Expo**, focado em usabilidade, organização e navegação entre telas. Permite adicionar, visualizar e remover tarefas, além de exibir a data em que cada uma foi criada.
 
 ---
