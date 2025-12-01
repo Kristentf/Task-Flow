@@ -57,10 +57,10 @@ project/
 
 ## ▶️ Como Rodar o Projeto
 
-Clone o repositório:
+Clone o repositório: 
 
 ```sh
-git clone NOME-DO-SEU-REPOSITORIO
+git clone https://github.com/Kristentf/Task-Flow.git
 ```
 
 Instale as dependências:
